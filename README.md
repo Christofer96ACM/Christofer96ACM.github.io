@@ -10,8 +10,8 @@ SOFTWARE SOLUTION DEVELOPMENT ASSOCIATE - DEVELOPER BACKEND / AGOSTO, 2025 - PRE
 ❖ Análisis y ejecución de modelos de solución por proyecto desarrollado.
 
 ANALYST SOFTWARE ENGINEER - ARCHITECT BACKEND / OCTUBRE, 2022 - AGOSTO, 2025
-❖ Soporte y consultoría en desarrollo de proyectos de desarrollo de componentes APX/LRBA (Frameworks de la compañía).
-❖ Gestión de Despliegues de Componentes APX/LRBA para producción.
+❖ Soporte y consultoría en desarrollo de proyectos de desarrollo de componentes JAVA (Frameworks de la compañía).
+❖ Gestión de Despliegues de Componentes JAVA para producción.
 ❖ Desarrollo de automatizaciones para la generación y validación de Hojas de Diseño de componentes APX.
 ❖ Análisis y diagnóstico de incidencias productivas.
 ❖ Desarrollador Java Spring Boot (Java 8+), usando CI/CD Jenkins, SonarQube y Maven.
